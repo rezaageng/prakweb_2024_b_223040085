@@ -1,3 +1,6 @@
 [submodule "oophp"]
 	path = oop
 	url = https://github.com/rezaageng/oophp.git
+[submodule "mvc"]
+	path = mvc
+	url = https://github.com/rezaageng/phpmvc.git
